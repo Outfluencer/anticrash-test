@@ -1,0 +1,6 @@
+main: de.FameEvil.main.Main
+name: BookAndPayloadFixer
+version: 1.0
+author: FameEvil
+commands:
+  AntiCrasher:
